@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Projeto desenvolvido em PostgreSQL com foco em análise de dados contábeis utilizando SQL para Data Analytics e Data Science.
+Projeto desenvolvido em PostgreSQL com foco em análise de dados contábeis utilizando SQL para Data Analytics e Data Science, baseado nos aprendizados do curso de Analista de Dados da Data Science Academy.
 
 O projeto simula um ambiente contábil real através da criação de:
 
